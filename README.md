@@ -50,7 +50,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `src/components/VoiceRecorder.tsx`: Core voice recording functionality
 - `src/app/api/voice/route.ts`: API endpoint for processing audio and communicating with OpenAI
 
-  ## UI
+## UI
 
   <img width="1495" alt="image" src="https://github.com/user-attachments/assets/7bede578-b1b5-40c1-9d9d-73128384c400" />
   <img width="1491" alt="image" src="https://github.com/user-attachments/assets/51a36f8e-cbe5-46f8-a55e-b2e7309e94da" />

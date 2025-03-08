@@ -50,6 +50,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `src/components/VoiceRecorder.tsx`: Core voice recording functionality
 - `src/app/api/voice/route.ts`: API endpoint for processing audio and communicating with OpenAI
 
+  ## UI
+
+  <img width="1495" alt="image" src="https://github.com/user-attachments/assets/7bede578-b1b5-40c1-9d9d-73128384c400" />
+  <img width="1491" alt="image" src="https://github.com/user-attachments/assets/51a36f8e-cbe5-46f8-a55e-b2e7309e94da" />
+  <img width="1483" alt="image" src="https://github.com/user-attachments/assets/bb210f99-6af6-45cf-8902-897f02dd0453" />
+
+
 ## Deployment
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
